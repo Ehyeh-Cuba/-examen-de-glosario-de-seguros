@@ -1,0 +1,322 @@
+[
+  {
+    "term": "**Beneficiario** / Beneficiary",
+    "definition": "**La persona que recibe los beneficios** de la póliza cuando el asegurado fallece."
+  },
+  {
+    "term": "**Prima** / Premium",
+    "definition": "**El pago periódico que el asegurado realiza** a la aseguradora para mantener la cobertura."
+  },
+  {
+    "term": "**Póliza** / Policy",
+    "definition": "**El contrato escrito entre el asegurado y la aseguradora** que detalla los **términos** de la cobertura."
+  },
+  {
+    "term": "**Suma** asegurada / Face Amount",
+    "definition": "**La cantidad máxima que pagará la aseguradora en caso de siniestro.**"
+  },
+  {
+    "term": "**Riesgo** / Risk",
+    "definition": "La posibilidad de que ocurra un evento que cause una pérdida cubierta por el seguro."
+  },
+  {
+    "term": "**Asegurado** / Insured",
+    "definition": "**La persona o entidad protegida** por la póliza de seguro."
+  },
+  {
+    "term": "**Aseguradora** / Insurer",
+    "definition": "**La compañía que asume el riesgo y paga** las indemnizaciones en caso de siniestro."
+  },
+  {
+    "term": "**Siniestro** / Claim",
+    "definition": "El **evento** o circunstancia **que activa la cobertura** del seguro y da derecho **a indemnización**."
+  },
+  {
+    "term": "**Cobertura** / Coverage",
+    "definition": "El **alcance de protección** que ofrece una póliza de seguro."
+  },
+  {
+    "term": "**Exclusión** / Exclusion",
+    "definition": "**Situaciones o riesgos que no están cubiertos** por la póliza de seguro."
+  },
+  {
+    "term": "**Deducible** / Deductible",
+    "definition": "La cantidad de dinero que el asegurado debe pagar antes de que la aseguradora cubra el resto.**"
+  },
+  {
+    "term": "**Vigencia** / Policy Period",
+    "definition": "El **periodo de tiempo** durante el cual la póliza está **activa y ofrece cobertura**."
+  },
+  {
+    "term": "**Renovación** / Renewal",
+    "definition": "La **extensión del periodo de cobertura** de una póliza de seguro."
+  },
+  {
+    "term": "**Cancelación** / Cancellation",
+    "definition": "La **terminación anticipada** de una póliza de seguro."
+  },
+  {
+    "term": "**Reclamación** / Claim Submission",
+    "definition": "El **proceso** mediante el cual **el asegurado solicita el pago de un siniestro.**"
+  },
+  {
+    "term": "**Indemnización** / Indemnity",
+    "definition": "El **pago** que realiza la aseguradora al asegurado **por un siniestro cubierto**."
+  },
+  {
+    "term": "**Beneficio** por **fallecimiento** / Death Benefit",
+    "definition": "La **suma** que paga la aseguradora a los **beneficiarios** cuando **fallece el asegurado**."
+  },
+  {
+    "term": "**Seguro de vida** / Life Insurance",
+    "definition": "**Póliza que paga una suma de dinero** a los **beneficiarios** si **el asegurado fallece**."
+  },
+  {
+    "term": "**Seguro de salud** / Health Insurance",
+    "definition": "**Póliza que cubre gastos médicos y hospitalarios** del **asegurado**."
+  },
+  {
+    "term": "**Seguro de automóvil** / Auto Insurance",
+    "definition": "**Póliza que cubre daños o pérdidas relacionados con vehículos automotores**."
+  },
+  {
+    "term": "**Seguro de hogar** / Home Insurance",
+    "definition": "**Póliza que protege la vivienda y sus contenidos contra daños o pérdidas**."
+  },
+  {
+    "term": "**Seguro de accidentes** / Accident Insurance",
+    "definition": "**Póliza que cubre lesiones o fallecimiento causados por accidentes**."
+  },
+  {
+    "term": "**Seguro de responsabilidad civil** / Liability Insurance",
+    "definition": "**Póliza que cubre daños a terceros** por responsabilidad del asegurado."
+  },
+  {
+    "term": "**Seguro colectivo** / Group Insurance",
+    "definition": "**Póliza que cubre a un grupo de personas** bajo un mismo contrato."
+  },
+  {
+    "term": "**Seguro temporal** / Term Insurance",
+    "definition": "**Póliza** que ofrece cobertura por un **periodo específico de tiempo**."
+  },
+  {
+    "term": "**Seguro permanente** / Permanent Insurance",
+    "definition": "**Póliza** que ofrece cobertura **durante toda la vida** del asegurado."
+  },
+  {
+    "term": "**Seguro universal** / Universal Life Insurance",
+    "definition": "**Póliza** flexible que combina **seguro de vida** y **ahorro**."
+  },
+  {
+    "term": "Seguro **dotal** / Endowment Insurance",
+    "definition": "Póliza que **paga** una suma **al asegurado si sobrevive** al final del plazo **o a los beneficiarios si fallece** antes."
+  },
+  {
+    "term": "Seguro de **crédito** / Credit Insurance",
+    "definition": "Póliza que **cubre el pago de deudas** en caso de **fallecimiento** o **incapacidad** del asegurado."
+  },
+  {
+    "term": "Seguro de **viaje** / Travel Insurance",
+    "definition": "Póliza que **cubre riesgos asociados a viajes**, como accidentes, enfermedades o pérdida de equipaje."
+  },
+  {
+    "term": "Seguro de **gastos médicos mayores** / Major Medical Insurance",
+    "definition": "Póliza que **cubre gastos médicos de alto costo**."
+  },
+  {
+    "term": "Seguro de **incapacidad** / Disability Insurance",
+    "definition": "Póliza que **paga una suma periódica** si el asegurado queda **incapacitado para trabajar**."
+  },
+  {
+    "term": "Seguro de **renta vitalicia** / Annuity",
+    "definition": "Contrato de **jubilacion** que proporciona **ingresos periódicos** durante un **periodo** o de **por vida**."
+  },
+  {
+    "term": "Seguro de **vida entera** / Whole Life Insurance",
+    "definition": "Póliza de vida que cubre al asegurado **durante toda su vida** y paga un beneficio al **fallecer**."
+  },
+  {
+    "term": "Seguro de **vida variable** / Variable Life Insurance",
+    "definition": "Póliza de vida donde **el valor en efectivo y el beneficio por fallecimiento pueden variar** según el mercado."
+  },
+  {
+    "term": "Seguro de **vida ajustable** / Adjustable Life Insurance",
+    "definition": "Póliza de vida que permite **modificar el monto asegurado**, la **prima** y el **periodo de protección**."
+  },
+  {
+    "term": "Seguro de **vida conjunta** / Joint Life Insurance",
+    "definition": "Póliza que **cubre a dos o más personas** y paga al **primer fallecimiento**."
+  },
+  {
+    "term": "Seguro de **vida juvenil** / Juvenile Life Insurance",
+    "definition": "Póliza de vida contratada sobre la vida de un **menor**."
+  },
+  {
+    "term": "Seguro de **vida pagado** / Paid-Up Insurance",
+    "definition": "Póliza de vida en la que **todas las primas han sido pagadas**, pero aún no ha vencido ni se ha pagado el beneficio."
+  },
+  {
+    "term": "**Seguro mutual** / Mutual Insurance",
+    "definition": "Compañía de seguros propiedad de los asegurados."
+  },
+  {
+    "term": "Seguro de **capitalización** / Capitalization Insurance",
+    "definition": "Póliza que **combina seguro y  forzoso, pagando una suma al final del plazo.**"
+  },
+  {
+    "term": "Seguro de **salud grupal** / Group Health Insurance",
+    "definition": "Póliza de salud que **cubre a un grupo** de personas bajo **un solo contrato.**"
+  },
+  {
+    "term": "Seguro de salud **individual** / Individual Health Insurance",
+    "definition": "Póliza de salud contratada **por una sola persona.**"
+  },
+  {
+    "term": "Seguro de gastos **funerarios** / Funeral Insurance",
+    "definition": "Póliza que cubre los gastos asociados al **funeral del asegurado**."
+  },
+  {
+    "term": "Seguro de **propiedad** / Property Insurance",
+    "definition": "Póliza que cubre daños o pérdidas a **bienes materiales.**"
+  },
+  {
+    "term": "Seguro de **incendio** / Fire Insurance",
+    "definition": "Póliza que cubre daños causados **por incendio.**"
+  },
+  {
+    "term": "Seguro de **robo** / Theft Insurance",
+    "definition": "Póliza que cubre **pérdidas por robo.**"
+  },
+  {
+    "term": "Seguro **marítimo** / Marine Insurance",
+    "definition": "Póliza que cubre riesgos relacionados con el **transporte marítimo.**"
+  },
+  {
+    "term": "Seguro **agrícola** / Crop Insurance",
+    "definition": "Póliza que cubre **pérdidas en cultivos agrícolas.**"
+  },
+  {
+    "term": "Seguro de **responsabilidad profesional** / Professional Liability Insurance",
+    "definition": "Póliza que cubre **daños causados por errores u omisiones profesionales.**"
+  },
+  {
+    "term": "Seguro de **responsabilidad patronal** / Employer's Liability Insurance",
+    "definition": "Póliza que cubre la **responsabilidad del empleador** por **accidentes laborales.**"
+  },
+  {
+    "term": "Seguro de **responsabilidad civil médica** / Medical Liability Insurance",
+    "definition": "Póliza que cubre la **responsabilidad de los profesionales de la salud** por **daños a pacientes.**"
+  },
+  {
+    "term": "Seguro de **responsabilidad civil de productos** / Product Liability Insurance",
+    "definition": "Póliza que cubre **daños causados por productos defectuosos.**"
+  },
+  {
+    "term": "Seguro de **responsabilidad civil de directores y administradores** / Directors and Officers Liability Insurance",
+    "definition": "Póliza que cubre la **responsabilidad de directores y administradores de empresas.**"
+  },
+  {
+    "term": "Seguro de **responsabilidad civil ambiental** / Environmental Liability Insurance",
+    "definition": "Póliza que cubre **daños al medio ambiente** causados por **actividades empresariales.**"
+  },
+  {
+    "term": "Seguro de **responsabilidad civil profesional** / Professional Indemnity Insurance",
+    "definition": "Póliza que cubre **reclamaciones por negligencia profesional.**"
+  },
+  {
+    "term": "Seguro de **salud complementario** / Supplemental Health Insurance",
+    "definition": "Póliza que cubre **gastos médicos no incluidos** en el seguro principal."
+  },
+  {
+    "term": "Seguro de **accidentes personales** / Personal Accident Insurance",
+    "definition": "Póliza que cubre **lesiones personales** por **accidentes.**"
+  },
+  {
+    "term": "Seguro de **desempleo** / Unemployment Insurance",
+    "definition": "Póliza que paga una suma periódica si el asegurado pierde su empleo."
+  },
+  {
+    "term": "Seguro de **renta diferida** / Deferred Annuity",
+    "definition": "Contrato que proporciona **ingresos a partir de una fecha futura.**"
+  },
+  {
+    "term": "Seguro de **renta inmediata** / Immediate Annuity",
+    "definition": "Contrato que proporciona **ingresos inmediatamente** después de la **prima inicial.**"
+  },
+  {
+    "term": "Seguro de **salud dental** / Dental Insurance",
+    "definition": "Póliza que cubre **gastos odontológicos.**"
+  },
+  {
+    "term": "Seguro de **salud visual** / Vision Insurance",
+    "definition": "Póliza que cubre **gastos de atención visual.**"
+  },
+  {
+    "term": "Seguro de **salud internacional** / International Health Insurance",
+    "definition": "Póliza que cubre **gastos médicos en el extranjero.**"
+  },
+  {
+    "term": "Seguro de **salud para mascotas** / Pet Health Insurance",
+    "definition": "Póliza que cubre **gastos médicos de mascotas.**"
+  },
+  {
+    "term": "Seguro de **salud para estudiantes** / Student Health Insurance",
+    "definition": "Póliza que cubre **gastos médicos de estudiantes.**"
+  },
+  {
+    "term": "Seguro de **salud para viajeros** / Travel Health Insurance",
+    "definition": "Póliza que cubre **gastos médicos durante viajes.**"
+  },
+  {
+    "term": "Seguro de **salud para expatriados** / Expatriate Health Insurance",
+    "definition": "Póliza que cubre **gastos médicos de personas que viven fuera de su país de origen.**"
+  },
+  {
+    "term": "Seguro de **salud para empleados** / Employee Health Insurance",
+    "definition": "Póliza de salud ofrecida por el empleador a sus empleados."
+  },
+  {
+    "term": "Seguro de salud para **jubilados** / Retiree Health Insurance",
+    "definition": "Póliza de salud ** para personas jubiladas.**"
+  },
+  {
+    "term": "Seguro de salud para **familias** / Family Health Insurance",
+    "definition": "Póliza de salud que cubre a **todos los miembros de una familia.**"
+  },
+  {
+    "term": "Seguro de salud para **niños** / Child Health Insurance",
+    "definition": "Póliza de salud que cubre a **menores de edad.** "
+  },
+  {
+    "term": "Seguro de salud para **mujeres** / Women's Health Insurance",
+    "definition": "Póliza de salud que cubre **necesidades médicas específicas de las mujeres.**"
+  },
+  {
+    "term": "Seguro de salud para **hombres** / Men's Health Insurance",
+    "definition": "Póliza de salud que cubre **necesidades médicas específicas de los hombres.**"
+  },
+  {
+    "term": "Seguro de salud para **personas mayores** / Senior Health Insurance",
+    "definition": "Póliza de salud para **personas de la tercera edad.**"
+  },
+  {
+    "term": "Seguro de salud para **personas con discapacidad** / Disability Health Insurance",
+    "definition": "Póliza de salud para **personas con discapacidad.**"
+  },
+  {
+    "term": "Seguro de salud para **enfermedades críticas** / Critical Illness Insurance",
+    "definition": "Póliza que cubre **enfermedades graves** como **cáncer, infarto, etc.**"
+  },
+  {
+    "term": "Seguro de salud para **enfermedades preexistentes** / Pre-existing Condition Insurance",
+    "definition": "Póliza que cubre **enfermedades diagnosticadas antes de contratar el seguro.**"
+  },
+  {
+    "term": "Seguro de salud para **enfermedades raras** / Rare Disease Insurance",
+    "definition": "Póliza que cubre **enfermedades poco comunes.**"
+  },
+  {
+    "term": "Seguro de salud para **enfermedades terminales** / Terminal Illness Insurance",
+    "definition": "Póliza que cubre **enfermedades en fase terminal.**"
+  }
+] 
